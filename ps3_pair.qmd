@@ -26,14 +26,9 @@ np.random.seed(42)
 data = pd.DataFrame(np.random.rand(100), columns=['Random Numbers'])
 
 def preview_data(df):
-    head_output = df.head()
-    describe_output = df.describe()
-    return [head_output, describe_output]
+    head_data = df.head()
+    describe_data = df.describe()
+    return [head_data, describe_data]
 
 result = preview_data(data)
-
-print("Head of the DataFrame:")
-print(result[0])
-print("\nDescription of the DataFrame:")
-print(result[1])
 ```
