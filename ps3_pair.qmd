@@ -32,7 +32,7 @@ def preview_data(df):
         y='count()'
     )
     return [head_data, histogram]
-    
+
 preview_data(data)
 ```
 
