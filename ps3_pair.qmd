@@ -1,6 +1,6 @@
 ---
 title: "30538 Problem Set 3: git pair"
-author: "Duoshu Xu"
+author: "Duoshu Xu & Jae Hu"
 format: 
   pdf:
     include-in-header: 
@@ -27,12 +27,12 @@ data = pd.DataFrame(np.random.rand(100), columns=['Random Numbers'])
 
 def preview_data(df):
     head_data = df.head()
+    describe_data = df.describe()
     histogram = alt.Chart(df).mark_bar().encode(
         x=alt.X('Random Numbers', bin=alt.Bin(maxbins=20)),
         y='count()'
     )
-    return [head_data, histogram]
+    return [head_data, describe_data, histogram]
 
 preview_data(data)
 ```
-
