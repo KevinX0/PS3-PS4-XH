@@ -1,0 +1,26 @@
+Partner 1:Kevin Xu，KevinX0
+Partner 2:Jae Hu, jianinghu0408
+
+420fa52 - jianinghu0408, 2 days ago : Merge pull request #7 from KevinX0/histogram
+a599b24 - jianinghu0408, 2 days ago : Merge branch 'main' into histogram
+01a966e - KevinX0, 2 days ago : Modify preview_data to return head and histogram plot
+d62e6b2 - KevinX0, 2 days ago : Merge pull request #6 from KevinX0/describe
+6baf3ab - KevinX0, 2 days ago : Update ps3_pair.qmd
+48341b0 - KevinX0, 2 days ago : Modify preview_data to return head and histogram plot
+1a233e9 - jianinghu0408, 2 days ago : Modify preview_data to describe
+bd80b63 - jianinghu0408, 2 days ago : Merge pull request #5 from KevinX0/histogram
+d557c06 - KevinX0, 2 days ago : Modify preview_data to a histogram plot
+11afa8c - jianinghu0408, 2 days ago : Merge pull request #4 from KevinX0/histogram
+f74821f - KevinX0, 2 days ago : Merge branch 'main' into histogram
+38a64f5 - KevinX0, 2 days ago : Merge pull request #3 from KevinX0/describe
+63eb2a1 - jianinghu0408, 2 days ago : Merge branch 'main' into describe
+b729e55 - jianinghu0408, 2 days ago : Modify preview_data to describe
+fccd20c - jianinghu0408, 2 days ago : Modify preview_data to describe
+3c25c3c - KevinX0, 2 days ago : Modify preview_data to a histogram plot
+5fa1562 - KevinX0, 2 days ago : Merge pull request #2 from KevinX0/merge_conflict_name_2
+b570042 - KevinX0, 2 days ago : Merge branch 'main' into merge_conflict_name_2
+a51661c - jianinghu0408, 2 days ago : Merge pull request #1 from KevinX0/merge_conflict_name_1
+c11695e - jianinghu0408, 2 days ago : Replaced Dema Therese with Jae Hu
+402e087 - KevinX0, 2 days ago : Update ps3_pair.qmd
+beb0e20 - KevinX0, 3 days ago : Add files via upload
+7c1d4ae - KevinX0, 3 days ago : Initial commit
